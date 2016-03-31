@@ -1,19 +1,19 @@
-● Project Logo: [Logo]
+<b>Project Logo:</b> [Logo]
 
-● Description: [Description]
+<b>Description:</b> [Description]
 
-● Technologies: Qt
+<b>Technologies:</b> Qt
 
-● Screenshots/Mockup: [Much screenshots, many pictures, wow]
+<b>Screenshots/Mockup:</b> [Much screenshots, many pictures, wow]
 
-● Installation Instructions: [Instructions]
+<b>Installation Instructions:</b> [Instructions]
 
-● Contribution guidelines: [Guidelines]
+<b>Contribution guidelines:</b> [Guidelines]
 
-● Bugs and TODO List: [Bugs and todo list]
+<b>Bugs and TODO List:</b> [Bugs and todo list]
 
-● Contributor list: jared-smithype
+<b>Contributor list:</b> [jared-smithype](https://github.com/jared-smithype)
 
-● Credits, Inspiration, Alternatives: None cause there is no project yet.
+<b>Credits, Inspiration, Alternatives:</b> None cause there is no project yet.
 
-● License: None
+<b>License:</b> None
