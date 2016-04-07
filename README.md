@@ -8,7 +8,7 @@ My initial idea is to make a simple game of Tic-Tac-Toe.<br />
 Qt<br />
 
 <b>Screenshots/Mockup:</b><br />
-
+Inittial idea for the game
 ![Alt text](/images/ExampleScreenshot1.png)
 <br />
 Inittial idea for the game
