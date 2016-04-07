@@ -1,8 +1,8 @@
 <b>Project Logo:</b><br />
-[Logo]<br />
+Still a work in progress!<br />
 
 <b>Description:</b><br />
-[Description]<br />
+My initial idea is to make a simple game of Tic-Tac-Toe.<br />
 
 <b>Technologies:</b><br />
 Qt<br />
